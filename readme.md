@@ -11,7 +11,7 @@ Determine what is the best software tool for detecting damaged/incomplete/trunca
 
 Full analysis here:
 
-[Breaking WAVEs (and some FLACs)](http://blog.kbresearch.nl/2017/01/04/breaking-waves-and-some-flacs/)
+[Breaking WAVEs (and some FLACs)](https://researchkb.wordpress.com/2017/01/04/breaking-waves-and-some-flacs/)
 
 ## Data
 
